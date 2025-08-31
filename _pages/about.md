@@ -33,14 +33,11 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 # 📝 Publications 
 
 <!-- FlowRAM -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/2025FlowRAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation**
 
 **Sen Wang\***, Le Wang†, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang
-
-
 
 [[**Project**]](https://sanmumumu.github.io/FlowRAM/)&nbsp;
 [[**Paper**]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf)&nbsp;
@@ -49,10 +46,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 <!-- FlowRAM -->
 
-
-
 <!-- PDFacotr -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 ORAL</div><img src='../images/2025PDFactor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation**
@@ -60,10 +54,14 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei Tang
 </div>
 </div>
+<!-- PDFacotr -->
+
+
+
 
 # 🏅 Honors and Awards
 - *2024.10*, Academic Scholarship, XJTU
-- *2024.06*, Runner-up in the 5th Embodied AI Workshop, CVPR
+- *2024.06*, Runner-up in the 5th Embodied AI Workshop, \| CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
 - *2023.10*, Freshman Scholarship, XJTU
 - *2023.06*, Outstanding Graduates Student, JLU
 - *2021.12, 2022.12*, National Encouragement Scholarship, MOE of PRC

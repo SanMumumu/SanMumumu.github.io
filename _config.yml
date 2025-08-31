@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Sen Wang (王森)"
+description              : "Ph.D. Student at Xi'an Jiaotong University"
+repository               : "SanMumumu/SenWang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,31 +21,32 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Sen Wang"
+  avatar           : "images/avatar.jpg"
+  bio              : 
+  location         : "Shaanxi / Xi'an"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=JCSMcnUAAAAJ&hl=zh-CN&oi=sra"
+  email            : "wsmumumu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
+  resume           :  "files/resume.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "SanMumumu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/69/6403.html"
+  orcid            : "https://orcid.org/0009-0002-6578-0012"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -54,6 +55,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
+  # rednote          : https://www.xiaohongshu.com/user/profile/5f3a4813000000000101e8ac
   xing             :
   youtube          :
   wikipedia        :

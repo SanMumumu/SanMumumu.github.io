@@ -30,7 +30,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 - 2025.03: 🎉 Two papers were accepted to CVPR 2025.
 - 2023.06: 🎓 Graduated from Jilin University.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!-- FlowRAM -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/2025FlowRAM.png' alt="sym" width="100%"></div></div>
@@ -64,7 +64,7 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 
 # 🏅 Honors and Awards
 - *2024.10*, Academic Scholarship, XJTU
-- *2024.06*, Runner-up in the 5th Embodied AI Workshop, \| CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
+- *2024.06*, Runner-up in the 5th Embodied AI Workshop, CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
 - *2023.10*, Freshman Scholarship, XJTU
 - *2023.06*, Outstanding Graduates Student, JLU
 - *2021.12, 2022.12*, National Encouragement Scholarship, MOE of PRC

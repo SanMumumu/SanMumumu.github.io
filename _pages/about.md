@@ -58,7 +58,8 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 **PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation**
 
 Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei Tang
-
+</div>
+</div>
 
 # 🏅 Honors and Awards
 - *2024.10*, Academic Scholarship, XJTU

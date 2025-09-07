@@ -1,5 +1,4 @@
 <meta charset="utf-8">
-
 {% include seo.html %}
 
 <meta name="HandheldFriendly" content="True">
@@ -7,13 +6,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  document.documentElement.className =
+    document.documentElement.className.replace(/\bno-js\b/g, '') + ' js';
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
-
 <meta http-equiv="cleartype" content="on">
-<head>
-  <base target="_blank">
-</head>
+
+<base target="_blank">
+
+<style>
+  .masthead,
+  .masthead .masthead__inner-wrap,
+  .masthead #site-nav.greedy-nav,
+  .masthead .greedy-nav .hidden-links {
+    background: var(--nav-grad, transparent) !important;
+    border-bottom: none;
+    box-shadow: none;
+  }
+  .masthead .greedy-nav,
+  .masthead .greedy-nav ul,
+  .masthead .greedy-nav li,
+  .masthead .greedy-nav a {
+    background: transparent !important;
+  }
+</style>

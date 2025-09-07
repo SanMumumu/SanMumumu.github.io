@@ -20,15 +20,14 @@ redirect_from:
 I am currently a third-year Ph.D. candidate in the Institute of Artificial Intelligence and Robotics at Xi'an Jiaotong University ([IAIR](https://iair.xjtu.edu.cn/index.htm), [XJTU](https://www.xjtu.edu.cn/)), where I am pursuing my doctoral studies under the guidance of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
 Previously, I earned my B.Eng. in Control Science and Engineering from Jilin University.
 
-
 My research interest focus on Robotic Manipulation, with particular emphasis on vision language action model and world model. I welcome any inquiries regarding potential collaboration in these areas.
-
 
 
 # 🔥 News
 - 2025.06: 🎉 PDFactor was selected for an **oral** presentation.  
 - 2025.03: 🎉 Two papers were accepted to CVPR 2025.
 - 2023.06: 🎓 Graduated from Jilin University.
+
 
 # 📝 Selected Publications 
 
@@ -69,9 +68,13 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 - *2023.06*, Outstanding Graduates Student, JLU
 - *2021.12, 2022.12*, National Encouragement Scholarship, MOE of PRC
 
-# 📖 Educations
-- *2023.09 - present*, Ph.D. student, College of Artificial Intelligence, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), 
-- *2019.09 - 2023.06*, B.S., Control Science and Engineering, [Jilin University](https://www.jlu.edu.cn/)
+
+# 💬 Invited Talks
+- *2024.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
+
+
+# 💻 Internships
+- *2025.02 - present*, in [NOAH'S ARK LAB](https://noahlab.com.hk/#/home), China.
 
 
 # 🎞️ Work Demos
@@ -123,9 +126,7 @@ function showSlides(n){
 }
 </script>
 
-# 💬 Invited Talks
-- *2024.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
 
-
-# 💻 Internships
-- *2025.02 - present*, in [NOAH'S ARK LAB](https://noahlab.com.hk/#/home), China.
+# 📖 Educations
+- *2023.09 - present*, Ph.D. student, College of Artificial Intelligence, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), 
+- *2019.09 - 2023.06*, B.S., Control Science and Engineering, [Jilin University](https://www.jlu.edu.cn/)

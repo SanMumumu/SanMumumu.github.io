@@ -73,6 +73,116 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 - *2023.09 - present*, Ph.D. student, College of Artificial Intelligence, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), 
 - *2019.09 - 2023.06*, B.S., Control Science and Engineering, [Jilin University](https://www.jlu.edu.cn/)
 
+
+# 🎞️ Work Demos
+
+<!-- Video slider start -->
+<div class="video-slider">
+  <div class="slides">
+    <div class="slide">
+      <!-- Replace the src with your own embed URL -->
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y3P9wKyzLcM" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="slide">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y3P9wKyzLcM" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="slide">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y3P9wKyzLcM" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<div class="dots-container">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
+<style>
+  .video-slider {
+    position: relative;
+    max-width: 100%;
+    margin: 20px auto;
+  }
+  .video-slider .slides .slide {
+    display: none;
+  }
+  .video-slider .prev,
+  .video-slider .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  .video-slider .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  .video-slider .prev:hover,
+  .video-slider .next:hover {
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+  }
+  .dots-container {
+    text-align: center;
+    margin-top: 10px;
+  }
+  .dot {
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  .active,
+  .dot:hover {
+    background-color: #717171;
+  }
+</style>
+
+<script>
+  var slideIndex = 1;
+  showSlides(slideIndex);
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+  function showSlides(n) {
+    var i;
+    var slides = document.querySelectorAll('.video-slider .slide');
+    var dots = document.getElementsByClassName('dot');
+    if (n > slides.length) {
+      slideIndex = 1;
+    }
+    if (n < 1) {
+      slideIndex = slides.length;
+    }
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = 'none';
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(' active', '');
+    }
+    slides[slideIndex - 1].style.display = 'block';
+    dots[slideIndex - 1].className += ' active';
+  }
+</script>
+<!-- Video slider end -->
+
 # 💬 Invited Talks
 - *2024.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
 

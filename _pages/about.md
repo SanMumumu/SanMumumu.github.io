@@ -75,69 +75,52 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 
 
 # 🎞️ Work Demos
-<div class="vs">
-  <div class="s active" data-badge="CVPR 2024 WorkShop">
-    <span class="badge"></span>
-    <video class="v" controls playsinline
-           src="{{ '../videos/model_description.mp4' | relative_url }}"></video>
+<div class="video-slider">
+  <div class="slides">
+    <!-- Slide 1：local mp4 -->
+    <div class="slide">
+      <video controls playsinline preload="metadata">
+        <source src="{{ '../videos/model_description.mp4' | relative_url }}" type="video/mp4">
+      </video>
+    </div>
   </div>
 
-  <div class="s" data-badge="Demo · YouTube">
-    <span class="badge"></span>
-    <iframe class="yt"
-      src="https://www.youtube.com/embed/Y3P9wKyzLcM?enablejsapi=1"
-      allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
-  </div>
-
-  <button class="nav prev">&#10094;</button>
-  <button class="nav next">&#10095;</button>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
-<div class="dots"><b></b><b></b></div>
+<div class="dots">
+  <span onclick="currentSlide(1)"></span>
+</div>
 
 <style>
-.vs{position:relative;max-width:880px;margin:1rem auto}
-.s{display:none;position:relative}
-.s.active{display:block}
-video,iframe{width:100%;aspect-ratio:16/9;border:0;display:block}
-.nav{position:absolute;top:50%;transform:translateY(-50%);
-     background:rgba(0,0,0,.5);color:#fff;border:0;padding:6px 10px;cursor:pointer}
-.next{right:0}
-.badge{position:absolute;left:10px;top:10px;background:#1f3b8a;color:#fff;
-       padding:.22rem .5rem;border-radius:.4rem;font:600 12px/1 system-ui}
-.dots{text-align:center;margin-top:6px}
-.dots b{display:inline-block;width:8px;height:8px;background:#bbb;border-radius:50%;margin:0 4px;cursor:pointer}
-.dots b.on{background:#555}
+.video-slider { position: relative; max-width: 640px; margin: 1rem auto; }
+.slide { display: none; }
+iframe, video { width: 100%; aspect-ratio: 16/9; border: none; }
+.prev, .next {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  padding: 6px 10px; background: rgba(0,0,0,.5); color:#fff; cursor:pointer;
+}
+.next { right: 0; }
+.dots { text-align:center; margin-top:6px; }
+.dots span { display:inline-block; width:10px; height:10px;
+  background:#bbb; border-radius:50%; margin:0 3px; cursor:pointer; }
+.dots span.active { background:#717171; }
 </style>
 
 <script>
-let i=0;
-const slides=[...document.querySelectorAll('.vs .s')];
-const dots=[...document.querySelectorAll('.dots b')];
-
-slides.forEach(s=>s.querySelector('.badge').textContent=s.dataset.badge||'');
-
-document.querySelectorAll('.yt').forEach(f=>{
-  if(!/origin=/.test(f.src))
-    f.src+=(f.src.includes('?')?'&':'?')+'origin='+encodeURIComponent(location.origin);
-});
-
-function show(k){
-  pauseAll();
-  slides[i].classList.remove('active'); dots[i].classList.remove('on');
-  i=(k+slides.length)%slides.length;
-  slides[i].classList.add('active'); dots[i].classList.add('on');
+let slideIndex=1; showSlides(slideIndex);
+function plusSlides(n){ showSlides(slideIndex+=n); }
+function currentSlide(n){ showSlides(slideIndex=n); }
+function showSlides(n){
+  const slides=document.querySelectorAll('.slide');
+  const dots=document.querySelectorAll('.dots span');
+  if(n>slides.length) slideIndex=1;
+  if(n<1) slideIndex=slides.length;
+  slides.forEach(s=>s.style.display="none");
+  dots.forEach(d=>d.classList.remove("active"));
+  slides[slideIndex-1].style.display="block";
+  dots[slideIndex-1].classList.add("active");
 }
-function pauseAll(){
-  document.querySelectorAll('.v').forEach(v=>v.pause());
-  document.querySelectorAll('.yt').forEach(f=>{
-    f.contentWindow?.postMessage('{"event":"command","func":"pauseVideo","args":[]}', '*');
-  });
-}
-
-document.querySelector('.prev').onclick=()=>show(i-1);
-document.querySelector('.next').onclick=()=>show(i+1);
-dots.forEach((d,idx)=>d.onclick=()=>show(idx));
-dots[0].classList.add('on');
 </script>
 
 # 💬 Invited Talks

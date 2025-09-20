@@ -24,12 +24,24 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 
 # 🔥 News
+- 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.
 - 2025.06: 🎉 PDFactor was selected for an **oral** presentation.  
 - 2025.03: 🎉 Two papers were accepted to CVPR 2025.
 - 2023.06: 🎓 Graduated from Jilin University.
 
 
 # 📝 Selected Publications 
+<!-- SAMPO -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/2025SAMPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**SAMPO: Scale-wise Autoregression with Motion Prompt for Generative World Models**
+
+**Sen Wang\***, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua
+
+
+</div>
+</div>
+<!-- SAMPO -->
 
 <!-- FlowRAM -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/2025FlowRAM.png' alt="sym" width="100%"></div></div>
@@ -44,6 +56,18 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 </div>
 <!-- FlowRAM -->
+
+# 📝 Collaboration Papers
+<!-- DynaRend -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 ORAL</div><img src='../images/2025DynaRend.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation**
+
+Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Hua Gang
+
+</div>
+</div>
+<!-- DynaRend -->
 
 <!-- PDFacotr -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 ORAL</div><img src='../images/2025PDFactor.png' alt="sym" width="100%"></div></div>
@@ -70,7 +94,7 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 
 
 # 💬 Invited Talks
-- *2024.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
+- *2025.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
 
 
 # 💻 Internships

@@ -59,7 +59,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 # 📝 Collaboration Papers
 <!-- DynaRend -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 ORAL</div><img src='../images/2025DynaRend.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/2025DynaRend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation**
 

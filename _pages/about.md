@@ -38,6 +38,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 **Sen Wang\***, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua
 
+[[**ArXiv**]](https://arxiv.org/pdf/2509.15536)
 
 </div>
 </div>
@@ -90,7 +91,7 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 - *2024.06*, Runner-up in the 5th Embodied AI Workshop, CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
 - *2023.10*, Freshman Scholarship, XJTU
 - *2023.06*, Outstanding Graduates Student, JLU
-- *2021.12, 2022.12*, National Encouragement Scholarship, MOE of PRC
+- *2022.12, 2021.12*, National Encouragement Scholarship, MOE of PRC
 
 
 # 💬 Invited Talks

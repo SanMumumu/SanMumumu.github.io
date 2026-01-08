@@ -66,6 +66,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Hua Gang
 
+[[**ArXiv**]](https://arxiv.org/pdf/2510.24261)
 </div>
 </div>
 <!-- DynaRend -->
@@ -87,7 +88,7 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 
 
 # 🏅 Honors and Awards
-- *2024.10*, Academic Scholarship, XJTU
+- *2025.10*, *2024.10*, Academic Scholarship, XJTU
 - *2024.06*, Runner-up in the 5th Embodied AI Workshop, CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
 - *2023.10*, Freshman Scholarship, XJTU
 - *2023.06*, Outstanding Graduates Student, JLU
@@ -99,7 +100,7 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 
 
 # 💻 Internships
-- *2025.02 - present*, in [NOAH'S ARK LAB](https://noahlab.com.hk/#/home), China.
+- *2025.05 - 2026.01*, in [NOAH'S ARK LAB](https://noahlab.com.hk/#/home), China.
 
 
 # 🎞️ Work Demos

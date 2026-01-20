@@ -38,8 +38,9 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 **Sen Wang\***, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua
 
-[[**ArXiv**]](https://arxiv.org/pdf/2509.15536)
-
+[[**Project**]](https://github.com/SanMumumu/SAMPO)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2509.15536)
+[[**Code**]](https://sanmumumu.github.io/SAMPO/)
 </div>
 </div>
 <!-- SAMPO -->

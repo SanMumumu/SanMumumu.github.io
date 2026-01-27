@@ -67,7 +67,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Hua Gang
 
-[[**ArXiv**]](https://arxiv.org/pdf/2510.24261)
+[[**Paper**]](https://arxiv.org/pdf/2510.24261)
 </div>
 </div>
 <!-- DynaRend -->
@@ -88,7 +88,7 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 
 
 
-# 🏅 Honors and Awards
+# 🏅 Honors & Awards
 - *2025.10*, *2024.10*, Academic Scholarship, XJTU
 - *2024.06*, Runner-up in the 5th Embodied AI Workshop, CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
 - *2023.10*, Freshman Scholarship, XJTU
@@ -96,7 +96,8 @@ Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei
 - *2022.12, 2021.12*, National Encouragement Scholarship, MOE of PRC
 
 
-# 💬 Invited Talks
+# 💬 Invited Talks & Community Services
+- **Reviewer:** CVPR 2026, ECCV 2026
 - *2025.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
 
 

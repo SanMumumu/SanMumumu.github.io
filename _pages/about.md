@@ -42,7 +42,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="authors">
       <strong>Sen Wang*</strong>, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua
     </div>
-    <div class="venue">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</div>
+    <div class="venue">The 39th Annual Conference on Neural Information Processing Systems</div>
     <div class="links">
       <a href="https://sanmumumu.github.io/SAMPO/" class="btn-accent">Project</a>
       <a href="https://arxiv.org/abs/2509.15536" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -60,7 +60,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="authors">
       <strong>Sen Wang*</strong>, Le Wang†, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang
     </div>
-    <div class="venue">CVPR 2025</div>
+    <div class="venue">The 42nd IEEE/CVF Conference on Computer Vision and Pattern Recognition</div>
     <div class="links">
       <a href="https://sanmumumu.github.io/FlowRAM/" class="btn-accent">Project</a>
       <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -73,7 +73,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">NeurIPS 2025</div>
+    <div class="badge">The 39th Annual Conference on Neural Information Processing Systems</div>
     <img src='../images/2025DynaRend.png' alt="DynaRend" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -97,7 +97,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="authors">
       Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Haowen Sun, Wei Tang
     </div>
-    <div class="venue">CVPR 2025</div>
+    <div class="venue">The 42nd IEEE/CVF Conference on Computer Vision and Pattern Recognition</div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>

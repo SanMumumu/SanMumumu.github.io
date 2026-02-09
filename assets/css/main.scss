@@ -247,3 +247,13 @@ $main-color: #012F63;
   .paper-box-image { width: 100%; padding: 16px; height: auto;}
   .paper-box-text { padding: 1.5rem; }
 }
+
+.hover-float {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: inline-block;
+}
+
+.hover-float:hover {
+    transform: translateY(-5px); 
+    text-shadow: 0 8px 15px rgba(79, 172, 254, 0.4); 
+}

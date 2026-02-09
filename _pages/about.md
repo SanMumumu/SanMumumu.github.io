@@ -69,34 +69,40 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
   </div>
 </div>
 
-
 # 📝 Collaboration Papers
-<!-- DynaRend -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/2025DynaRend.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation**
 
-Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Hua Gang
-
-[[**Paper**]](https://arxiv.org/pdf/2510.24261)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">NeurIPS 2025</div>
+    <img src='../images/2025DynaRend.png' alt="DynaRend" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation</h3>
+    <div class="authors">
+      Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Hua Gang
+    </div>
+    <div class="venue">NeurIPS 2025</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2510.24261" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
 </div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">CVPR 2025 ORAL</div>
+    <img src='../images/2025PDFactor.png' alt="PDFactor" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation</h3>
+    <div class="authors">
+      Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Haowen Sun, Wei Tang
+    </div>
+    <div class="venue">CVPR 2025</div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
 </div>
-<!-- DynaRend -->
-
-<!-- PDFacotr -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 ORAL</div><img src='../images/2025PDFactor.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation**
-
-Jingyi Tian, Le Wang†, Sanping Zhou, **Sen Wang\***, Jiayi Li, Haowen Sun, Wei Tang
-
-[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf)
-
-</div>
-</div>
-<!-- PDFacotr -->
-
-
 
 
 # 🏅 Honors & Awards

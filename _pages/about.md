@@ -31,33 +31,44 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 
 # 📝 Selected Publications 
-<!-- SAMPO -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/2025SAMPO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**SAMPO: Scale-wise Autoregression with Motion Prompt for Generative World Models**
 
-**Sen Wang\***, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua
-
-[[**Project**]](https://sanmumumu.github.io/SAMPO/)&nbsp;
-[[**Paper**]](https://arxiv.org/abs/2509.15536)
-[[**Code**]](https://github.com/SanMumumu/SAMPO)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">NeurIPS 2025</div>
+    <img src='../images/2025SAMPO.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>SAMPO: Scale-wise Autoregression with Motion Prompt for Generative World Models</h3>
+    <div class="authors">
+      <strong>Sen Wang*</strong>, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua
+    </div>
+    <div class="venue">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</div>
+    <div class="links">
+      <a href="https://sanmumumu.github.io/SAMPO/" class="btn-accent">Project</a>
+      <a href="https://arxiv.org/abs/2509.15536" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/SanMumumu/SAMPO" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
 </div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">CVPR 2025</div>
+    <img src='../images/2025FlowRAM.png' alt="FlowRAM" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation</h3>
+    <div class="authors">
+      <strong>Sen Wang*</strong>, Le Wang†, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang
+    </div>
+    <div class="venue">CVPR 2025</div>
+    <div class="links">
+      <a href="https://sanmumumu.github.io/FlowRAM/" class="btn-accent">Project</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/SanMumumu/FlowRAM" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
 </div>
-<!-- SAMPO -->
 
-<!-- FlowRAM -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/2025FlowRAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation**
-
-**Sen Wang\***, Le Wang†, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang
-
-[[**Project**]](https://sanmumumu.github.io/FlowRAM/)&nbsp;
-[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf)&nbsp;
-[[**Code**]](https://github.com/SanMumumu/FlowRAM)
-</div>
-</div>
-<!-- FlowRAM -->
 
 # 📝 Collaboration Papers
 <!-- DynaRend -->

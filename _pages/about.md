@@ -73,7 +73,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">The 39th Annual Conference on Neural Information Processing Systems</div>
+    <div class="badge">NeurIPS 2025</div>
     <img src='../images/2025DynaRend.png' alt="DynaRend" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -81,7 +81,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="authors">
       Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Hua Gang
     </div>
-    <div class="venue">NeurIPS 2025</div>
+    <div class="venue">The 39th Annual Conference on Neural Information Processing Systems</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2510.24261" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>

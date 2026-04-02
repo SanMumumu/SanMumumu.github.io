@@ -131,7 +131,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 
 # 💻 Internships
-- *2025.05 - 2026.01*, in [NOAH'S ARK LAB](https://noahlab.com.hk/#/home), China.
+- *2025.03 - 2026.03*, in [NOAH'S ARK LAB](https://noahlab.com.hk/#/home), China.
 
 
 # 🎞️ Work Demos

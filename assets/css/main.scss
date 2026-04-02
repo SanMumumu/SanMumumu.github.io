@@ -188,27 +188,25 @@ $border-color: #d9e2ec;
 }
 
 .btn-accent {
-  background: #ffffff;
-  color: $main-color !important;
-  padding: 0.55rem 0.9rem;
-  border-radius: 10px;
+  background: #edf4fb;
+  color: #1f4f78 !important;
+  padding: 0.48rem 0.82rem;
+  border-radius: 8px;
   font-size: 0.84rem;
-  font-weight: 600;
+  font-weight: 550;
   text-decoration: none;
   box-shadow: none;
-  transition: all 0.3s ease;
-  border: 1px solid $border-color;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+  border: 1px solid #d7e6f2;
   display: inline-flex;
   align-items: center;
   gap: 6px;
 }
 
 .btn-accent:hover {
-  transform: translateY(-1px);
-  background: $accent-soft;
-  border-color: rgba(33, 95, 139, 0.35);
-  box-shadow: 0 6px 16px rgba(16, 42, 67, 0.08);
-  color: $accent-color !important;
+  background: #e2eef8;
+  border-color: #bdd3e6;
+  color: #163f62 !important;
 }
 
 @media (max-width: 768px) {

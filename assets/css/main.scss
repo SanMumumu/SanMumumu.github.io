@@ -97,20 +97,10 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
-}
-
-$accent-color-1: #4facfe; 
-$accent-color-2: #00f2fe; 
-$main-color: #012F63;     
+$accent-color: #215f8b;
+$accent-soft: #eef4f8;
+$main-color: #102a43;
+$border-color: #d9e2ec;
 
 .paper-box {
   display: flex !important;
@@ -129,8 +119,8 @@ $main-color: #012F63;
 
 .paper-box:hover {
   transform: translateY(-4px);
-  box-shadow: 0 12px 35px rgba(1, 47, 99, 0.1), 0 4px 15px rgba(79, 172, 254, 0.2); 
-  border-color: rgba(79, 172, 254, 0.3);
+  box-shadow: 0 14px 34px rgba(16, 42, 67, 0.09), 0 4px 12px rgba(16, 42, 67, 0.05);
+  border-color: rgba(33, 95, 139, 0.2);
 }
 
 .paper-box-image {
@@ -138,7 +128,7 @@ $main-color: #012F63;
   width: 240px;
   min-width: 240px;
   overflow: hidden;
-  background: linear-gradient(135deg, #f0f9ff 0%, #e6f7ff 100%);
+  background: #f7fafc;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -161,29 +151,6 @@ $main-color: #012F63;
   box-shadow: 0 8px 25px rgba(1, 47, 99, 0.12);
 }
 
-.paper-box-image .badge {
-  position: absolute;
-  top: 16px;
-  left: 16px;
-  background: linear-gradient(135deg, $accent-color-1 0%, $accent-color-2 100%);
-  color: white;
-  padding: 0.4em 0.8em;
-  border-radius: 20px;
-  font-size: 0.75em;
-  font-weight: 700;
-  box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3);
-  z-index: 10;
-  margin: 0 !important;
-}
-
-.pulse-accent {
-  animation: pulse-accent 2s infinite;
-}
-@keyframes pulse-accent {
-  0% { box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3); }
-  50% { box-shadow: 0 4px 20px rgba(79, 172, 254, 0.5); }
-  100% { box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3); }
-}
 
 .paper-box-text {
   padding: 2rem;
@@ -208,38 +175,40 @@ $main-color: #012F63;
 }
 
 .paper-box-text .venue {
-  color: #6c757d;
-  font-style: italic;
-  font-size: 0.9rem;
+  color: #486581;
+  font-size: 0.92rem;
   margin-bottom: 1rem;
 }
 
 .links {
   display: flex;
-  gap: 10px;
+  gap: 12px;
   flex-wrap: wrap;
   margin-top: auto;
 }
 
 .btn-accent {
-  background: linear-gradient(90deg, $accent-color-1 0%, $accent-color-2 100%); /* 按钮也用渐变 */
-  color: white !important;
-  padding: 8px 16px;
-  border-radius: 25px;
-  font-size: 0.85rem;
+  background: #ffffff;
+  color: $main-color !important;
+  padding: 0.55rem 0.9rem;
+  border-radius: 10px;
+  font-size: 0.84rem;
   font-weight: 600;
   text-decoration: none;
-  box-shadow: 0 3px 8px rgba(79, 172, 254, 0.3);
+  box-shadow: none;
   transition: all 0.3s ease;
-  border: none;
+  border: 1px solid $border-color;
   display: inline-flex;
   align-items: center;
-  gap: 5px;
+  gap: 6px;
 }
 
 .btn-accent:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 15px rgba(79, 172, 254, 0.4);
+  transform: translateY(-1px);
+  background: $accent-soft;
+  border-color: rgba(33, 95, 139, 0.35);
+  box-shadow: 0 6px 16px rgba(16, 42, 67, 0.08);
+  color: $accent-color !important;
 }
 
 @media (max-width: 768px) {

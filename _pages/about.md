@@ -34,7 +34,22 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">NeurIPS 2025</div>
+    <img src='../images/2026GenSplat.png' alt="GenSplat" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning</h3>
+    <div class="authors">
+      <strong>Sen Wang*</strong>, Huaiyi Dong, Jingyi Tian, Jiayi Li, Zhuo Yang, Tongtong Cao, Anlin Chen, Shuang Wu, Le Wang, Sanping Zhou
+    </div>
+    <div class="venue">arXiv preprint, 2026</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2603.29192" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/SanMumumu/GenSplat" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <img src='../images/2025SAMPO.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -44,7 +59,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     </div>
     <div class="venue">The 39th Annual Conference on Neural Information Processing Systems</div>
     <div class="links">
-      <a href="https://sanmumumu.github.io/SAMPO/" class="btn-accent">Project</a>
+      <a href="https://sanmumumu.github.io/SAMPO/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
       <a href="https://arxiv.org/abs/2509.15536" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/SanMumumu/SAMPO" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
@@ -52,7 +67,6 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">CVPR 2025</div>
     <img src='../images/2025FlowRAM.png' alt="FlowRAM" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -62,7 +76,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     </div>
     <div class="venue">The 42nd IEEE/CVF Conference on Computer Vision and Pattern Recognition</div>
     <div class="links">
-      <a href="https://sanmumumu.github.io/FlowRAM/" class="btn-accent">Project</a>
+      <a href="https://sanmumumu.github.io/FlowRAM/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
       <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/SanMumumu/FlowRAM" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
@@ -73,7 +87,6 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">NeurIPS 2025</div>
     <img src='../images/2025DynaRend.png' alt="DynaRend" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -89,7 +102,6 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">CVPR 2025 ORAL</div>
     <img src='../images/2025PDFactor.png' alt="PDFactor" width="100%">
   </div>
   <div class='paper-box-text'>

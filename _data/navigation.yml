@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-awards"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
 
   - title: "Work Demos"
-    url: "/#-work-demos"
+    url: "/#work-demos"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"

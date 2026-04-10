@@ -23,12 +23,16 @@ Previously, I earned my B.Eng. in Control Science and Engineering from Jilin Uni
 My research interest focus on Robotic Manipulation, with particular emphasis on vision language action model and world model. I welcome any inquiries regarding potential collaboration in these areas.
 
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.
 - 2025.06: 🎉 PDFactor was selected for an **oral** presentation.  
 - 2025.03: 🎉 Two papers were accepted to CVPR 2025.
 - 2023.06: 🎓 Graduated from Jilin University.
 
+
+<span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications 
 
@@ -117,6 +121,8 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 
 
+<span class='anchor' id='honors-awards'></span>
+
 # 🏅 Honors & Awards
 - *2025.10*, *2024.10*, Academic Scholarship, XJTU
 - *2024.06*, Runner-up in the 5th Embodied AI Workshop, CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
@@ -125,14 +131,20 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 - *2022.12, 2021.12*, National Encouragement Scholarship, MOE of PRC
 
 
+<span class='anchor' id='invited-talks'></span>
+
 # 💬 Invited Talks & Community Services
 - **Reviewer:** CVPR 2026, ECCV 2026
 - *2025.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
 
 
+<span class='anchor' id='internships'></span>
+
 # 💻 Internships
 - *2025.03 - 2026.03*, in [NOAH'S ARK LAB](https://noahlab.com.hk/#/home), China.
 
+
+<span class='anchor' id='work-demos'></span>
 
 # 🎞️ Work Demos
 <div class="video-slider">
@@ -183,6 +195,8 @@ function showSlides(n){
 }
 </script>
 
+
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 - *2023.09 - present*, Ph.D. student, College of Artificial Intelligence, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), 

@@ -1,4 +1,35 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+  // Keep internal links in the current tab while preserving new tabs for external URLs.
+  document.querySelectorAll("a[href]").forEach(function(link) {
+    var rawHref = link.getAttribute("href");
+
+    if (!rawHref || rawHref.startsWith("#")) {
+      return;
+    }
+
+    if (rawHref.startsWith("mailto:") || rawHref.startsWith("tel:")) {
+      return;
+    }
+
+    var resolvedUrl;
+
+    try {
+      resolvedUrl = new URL(rawHref, window.location.href);
+    } catch (error) {
+      return;
+    }
+
+    var isExternal = resolvedUrl.origin !== window.location.origin;
+
+    if (isExternal) {
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+    } else {
+      link.target = "_self";
+    }
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

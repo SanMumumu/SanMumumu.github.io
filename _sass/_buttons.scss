@@ -21,9 +21,10 @@
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  box-shadow: 0 10px 24px rgba($primary-color, 0.16);
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(#000, $primary-color, 14%);
   }
 
   .icon {
@@ -48,13 +49,14 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $gray !important;
-    border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    color: $text-color !important;
+    border: 1px solid $border-color !important; /* override*/
+    background-color: $background-color;
 
     &:hover {
-      color: #fff !important;
-      border-color: $gray;
+      color: $text-color !important;
+      border-color: rgba($primary-color, 0.25);
+      background-color: $surface-muted-color;
     }
   }
 

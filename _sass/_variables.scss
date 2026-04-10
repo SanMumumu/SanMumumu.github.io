@@ -50,24 +50,27 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #6f6b63;
+$dark-gray                  : #3a342f;
+$darker-gray                : #141413;
+$light-gray                 : #c9c2b5;
+$lighter-gray               : #ece7db;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #f5f4ed;
+$background-color           : #faf9f5;
+$surface-color              : #f8f6ee;
+$surface-muted-color        : #f0ede3;
+$surface-strong-color       : #e7e1d4;
+$code-background-color      : #f1eee4;
+$code-background-color-dark : #e3ddd1;
+$text-color                 : #141413;
+$border-color               : #ddd7ca;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #224b8d;
+$primary-color              : #d97757;
+$success-color              : #6d8b68;
+$warning-color              : #c88f48;
+$danger-color               : #c9684d;
+$info-color                 : #8d5b44;
 // $info-color                 : #52adc8;
 
 /* brands */
@@ -94,11 +97,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #8d5b44;
+$link-color-hover           : #6e3f2d;
+$link-color-visited         : #b07c63;
+$masthead-link-color        : #2f2b27;
+$masthead-link-color-hover  : $link-color;
 
 
 /*
@@ -151,7 +154,7 @@ $susy: (
    ========================================================================== */
 
 $border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$box-shadow                 : 0 12px 32px rgba(70, 53, 39, 0.08);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;

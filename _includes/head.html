@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <script>
-    // 保持主题原有 no-js -> js 切换
+    // Preserve the theme's original no-js -> js class toggle.
     document.documentElement.className =
-      document.documentElement.className.replace(/\bno-js\b/g, '') + ' js';
+      document.documentElement.className.replace(/\bno-js\b/g, "") + " js";
   </script>
 
   <!-- For all browsers -->
@@ -17,37 +17,4 @@
   <meta http-equiv="cleartype" content="on">
 
   <base target="_blank">
-
-  <!-- ===== 覆盖导航白底 & 兜底渐变（若 JS 未加载也有颜色）===== -->
-  <style>
-    /* 兜底：先给变量一个固定的浅色渐变，JS 会在运行时覆盖它为随机渐变 */
-    :root {
-      --nav-grad: linear-gradient(90deg, #f6f0ff, #f0fff8, #fff7f0);
-    }
-
-    /* 去掉各层白底，统一使用 --nav-grad */
-    .masthead,
-    .masthead .masthead__inner-wrap,
-    .masthead #site-nav.greedy-nav,
-    .masthead .greedy-nav .hidden-links {
-      background: var(--nav-grad) !important;
-      border-bottom: none;
-      box-shadow: none;
-    }
-
-    /* 这些容器在某些主题版本里也可能被赋背景，统一置透明 */
-    .masthead .greedy-nav,
-    .masthead .greedy-nav ul,
-    .masthead .greedy-nav li,
-    .masthead .greedy-nav a,
-    .masthead .greedy-nav .visible-links {
-      background: transparent !important;
-    }
-
-    /* 小屏更多按钮也跟随背景，避免突兀 */
-    .masthead .greedy-nav button {
-      background: inherit !important;
-      border: none;
-    }
-  </style>
 </head>

@@ -224,3 +224,112 @@ $card-border-color: rgba(70, 53, 39, 0.08);
     transform: translateY(-5px); 
     text-shadow: 0 8px 15px rgba($accent-color, 0.22); 
 }
+
+.internship-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.internship-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.1rem 1.25rem;
+  background: $background-color;
+  border: 1px solid rgba(70, 53, 39, 0.08);
+  border-radius: 18px;
+  box-shadow: 0 10px 28px rgba(70, 53, 39, 0.08);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+}
+
+.internship-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 36px rgba(70, 53, 39, 0.12);
+  border-color: rgba($accent-color, 0.2);
+}
+
+.internship-card__logo {
+  width: 132px;
+  min-width: 132px;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.9rem;
+  border-radius: 14px;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba($accent-color, 0.08), rgba(255, 255, 255, 0.88));
+  border: 1px solid rgba($accent-color, 0.12);
+}
+
+.internship-card__logo--light {
+  background: linear-gradient(135deg, #ffffff, #f7f4ec);
+  border-color: rgba(70, 53, 39, 0.08);
+}
+
+.internship-card__logo--accent {
+  background: linear-gradient(135deg, rgba(34, 95, 224, 0.12), rgba(255, 255, 255, 0.96));
+  border-color: rgba(34, 95, 224, 0.12);
+}
+
+.internship-card__logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+.internship-card__content {
+  min-width: 0;
+}
+
+.internship-card__meta {
+  margin-bottom: 0.35rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba($main-color, 0.52);
+}
+
+.internship-card__content h3 {
+  margin: 0 0 0.2rem;
+  font-size: 1.12rem;
+  line-height: 1.25;
+  color: $main-color;
+}
+
+.internship-card__content p {
+  margin: 0;
+  color: rgba($main-color, 0.68);
+}
+
+@media (max-width: 768px) {
+  .internship-card {
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .internship-card__logo {
+    width: 110px;
+    min-width: 110px;
+    height: 74px;
+    padding: 0.7rem;
+  }
+}
+
+@media (max-width: 560px) {
+  .internship-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .internship-card__logo {
+    width: 100%;
+    min-width: 0;
+    height: 92px;
+  }
+}

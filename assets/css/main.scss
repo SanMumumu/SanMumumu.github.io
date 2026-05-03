@@ -227,6 +227,7 @@ $card-border-color: rgba(70, 53, 39, 0.08);
 
 .internship-list {
   display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   margin: 1.25rem 0 2rem;
 }
@@ -308,6 +309,10 @@ $card-border-color: rgba(70, 53, 39, 0.08);
 }
 
 @media (max-width: 768px) {
+  .internship-list {
+    grid-template-columns: 1fr;
+  }
+
   .internship-card {
     gap: 1rem;
     padding: 1rem;

@@ -142,6 +142,16 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 # 💻 Internships
 <div class="internship-list">
+  <a class="internship-card" href="https://www.horizon.auto/">
+    <div class="internship-card__logo internship-card__logo--accent">
+      <img src="{{ '/files/Horizon.png' | relative_url }}" alt="Horizon Robotics logo">
+    </div>
+    <div class="internship-card__content">
+      <div class="internship-card__meta">2026.04 - present</div>
+      <h3>Horizon Robotics</h3>
+      <p>China</p>
+    </div>
+  </a>
   <a class="internship-card" href="https://noahlab.com.hk/#/home">
     <div class="internship-card__logo internship-card__logo--light">
       <img src="{{ '/files/Noah.png' | relative_url }}" alt="Noah's Ark Lab logo">
@@ -149,16 +159,6 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="internship-card__content">
       <div class="internship-card__meta">2025.03 - 2026.03</div>
       <h3>Noah's Ark Lab</h3>
-      <p>China</p>
-    </div>
-  </a>
-  <a class="internship-card" href="https://www.horizon.auto/">
-    <div class="internship-card__logo internship-card__logo--accent">
-      <img src="{{ '/files/Horizon.png' | relative_url }}" alt="Horizon Robotics logo">
-    </div>
-    <div class="internship-card__content">
-      <div class="internship-card__meta">Internship</div>
-      <h3>Horizon Robotics</h3>
       <p>China</p>
     </div>
   </a>

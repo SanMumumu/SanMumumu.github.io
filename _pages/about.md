@@ -26,6 +26,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- 2026.06: 🎉 Two papers were accepted to ECCV 2026.
 - 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.
 - 2025.06: 🎉 PDFactor was selected for an **oral** presentation.  
 - 2025.03: 🎉 Two papers were accepted to CVPR 2025.
@@ -45,7 +46,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="authors">
       <strong>Sen Wang*</strong>, Huaiyi Dong, Jingyi Tian, Jiayi Li, Zhuo Yang, Tongtong Cao, Anlin Chen, Shuang Wu, Le Wang, Sanping Zhou
     </div>
-    <div class="venue">arXiv preprint, 2026</div>
+    <div class="venue">The 19th European Conference on Computer Vision</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2603.29192" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/SanMumumu/GenSplat" class="btn-accent"><i class="fab fa-github"></i> Code</a>

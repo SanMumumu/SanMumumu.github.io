@@ -26,6 +26,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- 2026.07: 🎉 Flow2Act was accepted by TPAMI.
 - 2026.06: 🎉 Two papers were accepted to ECCV 2026.
 - 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.
 - 2025.06: 🎉 PDFactor was selected for an **oral** presentation.  
@@ -37,6 +38,22 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 # 📝 Selected Publications 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='../images/2026Flow2Act.jpg' alt="Flow2Act" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Integrating Agglomerative Perception with One-step Action Generation for Robotic Manipulation</h3>
+    <div class="authors">
+      <strong>Sen Wang</strong>, Le Wang, Hongcheng Huo, Sanping Zhou, Kun Xia, Gang Hua
+    </div>
+    <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
+    <div class="links">
+      <a href="https://sanmumumu.github.io/Flow2Act/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+      <a href="https://sanmumumu.github.io/Flow2Act/static/pdfs/paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='../images/2026GenSplat.png' alt="GenSplat" width="100%">

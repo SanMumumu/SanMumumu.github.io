@@ -26,6 +26,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- 2026.08: 🎉 SAMPO++ was accepted by TPAMI.
 - 2026.07: 🎉 Flow2Act was accepted by TPAMI.
 - 2026.06: 🎉 Two papers were accepted to ECCV 2026.
 - 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.
@@ -51,6 +52,23 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="links">
       <a href="https://sanmumumu.github.io/Flow2Act/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
       <a href="https://sanmumumu.github.io/Flow2Act/static/pdfs/paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig1.webp' alt="SAMPO++ framework overview" width="100%" loading="lazy">
+  </div>
+  <div class='paper-box-text'>
+    <h3>SAMPO++: Unified Temporal Autoregression and Scale-Wise Flow Matching for Embodied World Models</h3>
+    <div class="authors">
+      <strong>Sen Wang</strong>, Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang
+    </div>
+    <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
+    <div class="links">
+      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/assets/docs/SAMPO++_preview.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/SanMumumu/SAMPO_plus_plus" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -188,11 +206,22 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 # 🎞️ Work Demos
 <div class="video-slider">
   <div class="slides">
-    <!-- Slide 1：local mp4 -->
+    <!-- Slide 1: local mp4 -->
     <div class="slide">
       <video controls playsinline preload="metadata">
         <source src="{{ '../videos/model_description.mp4' | relative_url }}" type="video/mp4">
       </video>
+    </div>
+    <!-- Slide 2: GenSplat ECCV 2026 presentation -->
+    <div class="slide">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/UDx4k6q2bGA"
+        title="GenSplat: Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning"
+        loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
     </div>
   </div>
 
@@ -201,6 +230,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 <div class="dots">
   <span onclick="currentSlide(1)"></span>
+  <span onclick="currentSlide(2)"></span>
 </div>
 
 <style>

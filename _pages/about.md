@@ -57,7 +57,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig1.webp' alt="SAMPO++ framework overview" width="100%" loading="lazy">
+    <img src='https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig2.webp' alt="SAMPO++ model overview" width="100%" loading="lazy">
   </div>
   <div class='paper-box-text'>
     <h3>SAMPO++: Unified Temporal Autoregression and Scale-Wise Flow Matching for Embodied World Models</h3>
@@ -215,9 +215,11 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <!-- Slide 2: GenSplat ECCV 2026 presentation -->
     <div class="slide">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/UDx4k6q2bGA"
+        class="fitvidsignore"
+        width="640"
+        height="360"
+        src="https://www.youtube.com/embed/UDx4k6q2bGA?feature=oembed"
         title="GenSplat: Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning"
-        loading="lazy"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin"
         allowfullscreen>
@@ -236,7 +238,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <style>
 .video-slider { position: relative; max-width: 640px; margin: 1rem auto; }
 .slide { display: none; }
-iframe, video { width: 100%; aspect-ratio: 16/9; border: none; }
+iframe, video { width: 100%; height: auto; aspect-ratio: 16/9; border: none; }
 .prev, .next {
   position: absolute; top: 50%; transform: translateY(-50%);
   padding: 6px 10px; background: rgba(0,0,0,.5); color:#fff; cursor:pointer;

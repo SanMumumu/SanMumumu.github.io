@@ -184,7 +184,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     </div>
     <div class="internship-card__content">
       <div class="internship-card__meta">2026.04 - present</div>
-      <h3>Horizon Robotics</h3>
+      <h3>Horizon Robotics Lab</h3>
       <p>China</p>
     </div>
   </a>

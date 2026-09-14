@@ -26,7 +26,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- 2026.08: 🎉 SAMPO++ was accepted by TPAMI.
+- 2026.08: 🎉 Action-Controlled Scale-Wise Flow Matching was accepted by TPAMI.
 - 2026.07: 🎉 Flow2Act was accepted by TPAMI.
 - 2026.06: 🎉 Two papers were accepted to ECCV 2026.
 - 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.
@@ -41,6 +41,23 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <img src='https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig2.webp' alt="Action-Controlled Scale-Wise Flow Matching model overview" width="100%" loading="lazy">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Action-Controlled Scale-Wise Flow Matching for Embodied World Models</h3>
+    <div class="authors">
+      <strong>Sen Wang</strong>, Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang
+    </div>
+    <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
+    <div class="links">
+      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/assets/docs/SAMPO++_preview.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/SanMumumu/SAMPO_plus_plus" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <img src='../images/2026Flow2Act.jpg' alt="Flow2Act" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -52,23 +69,6 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     <div class="links">
       <a href="https://sanmumumu.github.io/Flow2Act/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
       <a href="https://sanmumumu.github.io/Flow2Act/static/pdfs/paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-    </div>
-  </div>
-</div>
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig2.webp' alt="SAMPO++ model overview" width="100%" loading="lazy">
-  </div>
-  <div class='paper-box-text'>
-    <h3>SAMPO++: Unified Temporal Autoregression and Scale-Wise Flow Matching for Embodied World Models</h3>
-    <div class="authors">
-      <strong>Sen Wang</strong>, Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang
-    </div>
-    <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
-    <div class="links">
-      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
-      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/assets/docs/SAMPO++_preview.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/SanMumumu/SAMPO_plus_plus" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -125,6 +125,21 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 # 📝 Collaboration Papers
 
+<div class='paper-box'>
+  <div class='paper-box-image paper-box-image--placeholder' role="img" aria-label="RAGrasp, ECCV 2026">
+    <span>RAGrasp<br><small>ECCV 2026</small></span>
+  </div>
+  <div class='paper-box-text'>
+    <h3>RAGrasp: A Retrieval-Augmented Framework with Diversity-Aware Modeling for Dexterous Grasp Generation</h3>
+    <div class="authors">
+      Zhuo Yang, Sanping Zhou, <strong>Sen Wang</strong>, Jingyi Tian, Jiayi Li, Gang Hua, Le Wang
+    </div>
+    <div class="venue">The 19th European Conference on Computer Vision</div>
+    <div class="links">
+      <a href="https://openreview.net/pdf?id=L9YzQZzPqo" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='../images/2025DynaRend.png' alt="DynaRend" width="100%">

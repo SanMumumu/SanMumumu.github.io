@@ -146,21 +146,6 @@ $card-border-color: rgba(70, 53, 39, 0.08);
   box-shadow: 0 6px 16px rgba(70, 53, 39, 0.1);
 }
 
-.paper-box-image--placeholder {
-  color: mix(#000, $accent-color, 42%);
-  font-size: 1.45rem;
-  font-weight: 700;
-  line-height: 1.35;
-  text-align: center;
-}
-
-.paper-box-image--placeholder small {
-  color: rgba($main-color, 0.62);
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-}
-
 .paper-box:hover .paper-box-image img {
   transform: scale(1.02);
   box-shadow: 0 10px 26px rgba(70, 53, 39, 0.14);

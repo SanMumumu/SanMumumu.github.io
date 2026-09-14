@@ -126,8 +126,8 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 # 📝 Collaboration Papers
 
 <div class='paper-box'>
-  <div class='paper-box-image paper-box-image--placeholder' role="img" aria-label="RAGrasp, ECCV 2026">
-    <span>RAGrasp<br><small>ECCV 2026</small></span>
+  <div class='paper-box-image'>
+    <img src='../images/2026RAGrasp.png' alt="RAGrasp" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>RAGrasp: A Retrieval-Augmented Framework with Diversity-Aware Modeling for Dexterous Grasp Generation</h3>

@@ -136,7 +136,8 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     </div>
     <div class="venue">The 19th European Conference on Computer Vision</div>
     <div class="links">
-      <a href="https://openreview.net/pdf?id=L9YzQZzPqo" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-032-37356-4_3" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://openreview.net/pdf?id=L9YzQZzPqo" class="btn-accent"><i class="fas fa-file-pdf"></i> PDF</a>
     </div>
   </div>
 </div>

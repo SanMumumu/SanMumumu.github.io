@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. candidate in the Institute of Artificial Intelligence and Robotics at Xi'an Jiaotong University ([IAIR](https://iair.xjtu.edu.cn/index.htm), [XJTU](https://www.xjtu.edu.cn/)), where I am pursuing my doctoral studies under the guidance of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
+I am currently a fourth-year Ph.D. candidate in the Institute of Artificial Intelligence and Robotics at Xi'an Jiaotong University ([IAIR](https://iair.xjtu.edu.cn/index.htm), [XJTU](https://www.xjtu.edu.cn/)), where I am pursuing my doctoral studies under the guidance of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
 Previously, I earned my B.Eng. in Control Science and Engineering from Jilin University.
 
 My research interest focus on Robotic Manipulation, with particular emphasis on vision language action model and world model. I welcome any inquiries regarding potential collaboration in these areas.
@@ -26,7 +26,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- 2026.08: 🎉 Action-Controlled Scale-Wise Flow Matching was accepted by TPAMI.
+- 2026.08: 🎉 SAMPO++ (Action-Controlled Scale-Wise Flow Matching) was accepted by TPAMI.
 - 2026.07: 🎉 Flow2Act was accepted by TPAMI.
 - 2026.06: 🎉 Two papers were accepted to ECCV 2026.
 - 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.
@@ -46,7 +46,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
   <div class='paper-box-text'>
     <h3>Action-Controlled Scale-Wise Flow Matching for Embodied World Models</h3>
     <div class="authors">
-      <strong>Sen Wang</strong>, Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang
+      <strong>Sen Wang*</strong>, Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang
     </div>
     <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
     <div class="links">
@@ -63,7 +63,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
   <div class='paper-box-text'>
     <h3>Integrating Agglomerative Perception with One-step Action Generation for Robotic Manipulation</h3>
     <div class="authors">
-      <strong>Sen Wang</strong>, Le Wang, Hongcheng Huo, Sanping Zhou, Kun Xia, Gang Hua
+      <strong>Sen Wang*</strong>, Le Wang, Hongcheng Huo, Sanping Zhou, Kun Xia, Gang Hua
     </div>
     <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
     <div class="links">
@@ -132,7 +132,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
   <div class='paper-box-text'>
     <h3>RAGrasp: A Retrieval-Augmented Framework with Diversity-Aware Modeling for Dexterous Grasp Generation</h3>
     <div class="authors">
-      Zhuo Yang, Sanping Zhou, <strong>Sen Wang</strong>, Jingyi Tian, Jiayi Li, Gang Hua, Le Wang
+      Zhuo Yang, Sanping Zhou†, <strong>Sen Wang*</strong>, Jingyi Tian, Jiayi Li, Gang Hua, Le Wang
     </div>
     <div class="venue">The 19th European Conference on Computer Vision</div>
     <div class="links">

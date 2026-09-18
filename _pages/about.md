@@ -136,7 +136,8 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
     </div>
     <div class="venue">The 19th European Conference on Computer Vision</div>
     <div class="links">
-      <a href="https://openreview.net/pdf?id=L9YzQZzPqo" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-032-37356-4_3" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1642.pdf" class="btn-accent"><i class="fas fa-file-pdf"></i> PDF</a>
     </div>
   </div>
 </div>
@@ -175,7 +176,9 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='honors-awards'></span>
 
 # 🏅 Honors & Awards
+- *2025.11*, Second Prize in the Artificial Intelligence+ Special Competition, 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Works Competition [**(Cert.)**](../images/挑战杯国赛二等奖.pdf)
 - *2025.10*, *2024.10*, Academic Scholarship, XJTU
+- *2025.06*, First Prize in the 15th Challenge Cup Shaanxi Province College Students' Extracurricular Academic Science and Technology Works Competition [**(Cert.)**](../images/挑战杯省赛一等奖.jpg)
 - *2024.06*, Runner-up in the 5th Embodied AI Workshop, CVPR [**(Cert.)**](../images/2024_Award_cvprws.png)
 - *2023.10*, Freshman Scholarship, XJTU
 - *2023.06*, Outstanding Graduates Student, JLU

@@ -26,6 +26,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- 2026.09: 📄 Our new preprints [CogWAM](https://arxiv.org/abs/2609.37721) and [ReWAM](https://arxiv.org/abs/2609.38163) are now available on arXiv.
 - 2026.08: 🎉 SAMPO++ (Action-Controlled Scale-Wise Flow Matching) was accepted by TPAMI.
 - 2026.07: 🎉 Flow2Act was accepted by TPAMI.
 - 2026.06: 🎉 Two papers were accepted to ECCV 2026.
@@ -38,6 +39,27 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <span class='anchor' id='selected-publications'></span>
 
 # 📝 Selected Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='https://horizonrobotics.github.io/CogWAM/assets/figures/fig1.png'
+         alt="CogWAM: event-driven semantic state and world-action modeling overview"
+         width="100%" loading="lazy">
+  </div>
+  <div class='paper-box-text'>
+    <h3>CogWAM: Aligning Semantic Cognition with World Action Modeling via Event-Driven Interfaces</h3>
+    <div class="authors">
+      <strong>Sen Wang</strong>, Liu Liu, Xinjiang Wang, Zequn Chen, Haoyi Jiang, Taojun Ding, Tingyang Xiao, Zhizhong Su, Jie Wang, Sanping Zhou
+    </div>
+    <div class="venue">arXiv preprint, 2026</div>
+    <div class="links">
+      <a href="https://horizonrobotics.github.io/CogWAM/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+      <a href="https://arxiv.org/abs/2609.37721" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/HorizonRobotics/CogWAM" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="#work-demos" class="btn-accent"><i class="fas fa-play-circle"></i> Video</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -124,6 +146,46 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 </div>
 
 # 📝 Collaboration Papers
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='https://paper-assets.alphaxiv.org/figures-normalized/figures/2609.38163v1/x1.png'
+         alt="ReWAM Figure 1: representation-centric world-action modeling"
+         width="100%" loading="lazy"
+         onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+    <svg viewBox="0 0 600 320" role="img"
+         aria-label="ReWAM schematic: DINO features, feature calibration, temporal representation bottleneck, world and action models"
+         style="display:none; width:100%; height:auto; background:#f7f9fc" xmlns="http://www.w3.org/2000/svg">
+      <rect width="600" height="320" rx="12" fill="#f4f7fb"/>
+      <text x="30" y="60" font-size="46" font-weight="700" fill="#19344c" font-family="Arial,sans-serif">ReWAM</text>
+      <text x="30" y="93" font-size="19" fill="#536879" font-family="Arial,sans-serif">Representation-Centric World-Action Model</text>
+      <rect x="30" y="140" width="148" height="75" rx="10" fill="#dfeafe" stroke="#9dbbe6"/>
+      <text x="104" y="184" text-anchor="middle" font-size="23" fill="#19344c" font-family="Arial,sans-serif">DINO</text>
+      <path d="M180 177 H211" stroke="#70899d" stroke-width="4" fill="none"/>
+      <path d="M207 170 L218 177 L207 184" stroke="#70899d" stroke-width="4" fill="none"/>
+      <rect x="222" y="140" width="148" height="75" rx="10" fill="#dfeafe" stroke="#9dbbe6"/>
+      <text x="296" y="172" text-anchor="middle" font-size="19" fill="#19344c" font-family="Arial,sans-serif">Feature</text>
+      <text x="296" y="196" text-anchor="middle" font-size="19" fill="#19344c" font-family="Arial,sans-serif">Calibration</text>
+      <path d="M372 177 H403" stroke="#70899d" stroke-width="4" fill="none"/>
+      <path d="M399 170 L410 177 L399 184" stroke="#70899d" stroke-width="4" fill="none"/>
+      <rect x="414" y="140" width="156" height="75" rx="10" fill="#d2eee5" stroke="#86bfa9"/>
+      <text x="492" y="174" text-anchor="middle" font-size="23" fill="#196858" font-family="Arial,sans-serif">Temporal</text>
+      <text x="492" y="199" text-anchor="middle" font-size="23" fill="#196858" font-family="Arial,sans-serif">Bottleneck</text>
+      <text x="300" y="270" text-anchor="middle" font-size="20" fill="#54697a" font-family="Arial,sans-serif">Action-Grounded Representation Shaping</text>
+    </svg>
+  </div>
+  <div class='paper-box-text'>
+    <h3>ReWAM: Rethinking Representations for World-Action Modeling</h3>
+    <div class="authors">
+      Haoyi Jiang, Liu Liu, Xinjiang Wang, Zhihao Sun, Zequn Chen, <strong>Sen Wang</strong>, Xinjie Wang, Xia Chen, Jingfeng Yao, Weiheng Zhao, Shanglin Yuan, Zhizhong Su, Wei Sui, Wenyu Liu, Xinggang Wang
+    </div>
+    <div class="venue">arXiv preprint, 2026</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2609.38163" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/hustvl/ReWAM" class="btn-accent"><i class="fab fa-github"></i> Repository</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -224,13 +286,27 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 # 🎞️ Work Demos
 <div class="video-slider">
   <div class="slides">
-    <!-- Slide 1: local mp4 -->
+    <!-- Slide 1: CogWAM method overview, hosted on the official project site -->
+    <div class="slide">
+      <video controls playsinline preload="metadata"
+             poster="https://horizonrobotics.github.io/CogWAM/assets/figures/fig1.png"
+             aria-label="CogWAM method overview video">
+        <source src="https://horizonrobotics.github.io/CogWAM/assets/videos/method_overview.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+      </video>
+      <div class="video-slide-caption">
+        <strong>CogWAM</strong> — Event-Driven Semantic Cognition
+        · <a href="https://horizonrobotics.github.io/CogWAM/">Project</a>
+        · <a href="https://arxiv.org/abs/2609.37721">Paper</a>
+      </div>
+    </div>
+    <!-- Slide 2: existing local mp4 -->
     <div class="slide">
       <video controls playsinline preload="metadata">
         <source src="{{ '../videos/model_description.mp4' | relative_url }}" type="video/mp4">
       </video>
     </div>
-    <!-- Slide 2: GenSplat ECCV 2026 presentation -->
+    <!-- Slide 3: GenSplat ECCV 2026 presentation -->
     <div class="slide">
       <iframe
         class="fitvidsignore"
@@ -251,10 +327,13 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 <div class="dots">
   <span onclick="currentSlide(1)"></span>
   <span onclick="currentSlide(2)"></span>
+  <span onclick="currentSlide(3)"></span>
 </div>
 
 <style>
 .video-slider { position: relative; max-width: 640px; margin: 1rem auto; }
+.video-slide-caption { padding: 7px 10px; text-align: center; font-size: .86em; }
+.video-slide-caption a { text-decoration: underline; }
 .slide { display: none; }
 iframe, video { width: 100%; height: auto; aspect-ratio: 16/9; border: none; }
 .prev, .next {

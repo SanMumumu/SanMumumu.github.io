@@ -149,30 +149,7 @@ My research interest focus on Robotic Manipulation, with particular emphasis on 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='https://paper-assets.alphaxiv.org/figures-normalized/figures/2609.38163v1/x1.png'
-         alt="ReWAM Figure 1: representation-centric world-action modeling"
-         width="100%" loading="lazy"
-         onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
-    <svg viewBox="0 0 600 320" role="img"
-         aria-label="ReWAM schematic: DINO features, feature calibration, temporal representation bottleneck, world and action models"
-         style="display:none; width:100%; height:auto; background:#f7f9fc" xmlns="http://www.w3.org/2000/svg">
-      <rect width="600" height="320" rx="12" fill="#f4f7fb"/>
-      <text x="30" y="60" font-size="46" font-weight="700" fill="#19344c" font-family="Arial,sans-serif">ReWAM</text>
-      <text x="30" y="93" font-size="19" fill="#536879" font-family="Arial,sans-serif">Representation-Centric World-Action Model</text>
-      <rect x="30" y="140" width="148" height="75" rx="10" fill="#dfeafe" stroke="#9dbbe6"/>
-      <text x="104" y="184" text-anchor="middle" font-size="23" fill="#19344c" font-family="Arial,sans-serif">DINO</text>
-      <path d="M180 177 H211" stroke="#70899d" stroke-width="4" fill="none"/>
-      <path d="M207 170 L218 177 L207 184" stroke="#70899d" stroke-width="4" fill="none"/>
-      <rect x="222" y="140" width="148" height="75" rx="10" fill="#dfeafe" stroke="#9dbbe6"/>
-      <text x="296" y="172" text-anchor="middle" font-size="19" fill="#19344c" font-family="Arial,sans-serif">Feature</text>
-      <text x="296" y="196" text-anchor="middle" font-size="19" fill="#19344c" font-family="Arial,sans-serif">Calibration</text>
-      <path d="M372 177 H403" stroke="#70899d" stroke-width="4" fill="none"/>
-      <path d="M399 170 L410 177 L399 184" stroke="#70899d" stroke-width="4" fill="none"/>
-      <rect x="414" y="140" width="156" height="75" rx="10" fill="#d2eee5" stroke="#86bfa9"/>
-      <text x="492" y="174" text-anchor="middle" font-size="23" fill="#196858" font-family="Arial,sans-serif">Temporal</text>
-      <text x="492" y="199" text-anchor="middle" font-size="23" fill="#196858" font-family="Arial,sans-serif">Bottleneck</text>
-      <text x="300" y="270" text-anchor="middle" font-size="20" fill="#54697a" font-family="Arial,sans-serif">Action-Grounded Representation Shaping</text>
-    </svg>
+    <img src="{{ '/images/2026ReWAM.png' | relative_url }}" alt="ReWAM: action-grounded representations and benchmark results" width="100%" loading="lazy">
   </div>
   <div class='paper-box-text'>
     <h3>ReWAM: Rethinking Representations for World-Action Modeling</h3>

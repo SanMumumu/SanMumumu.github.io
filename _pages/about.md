@@ -40,175 +40,233 @@ My research interests focus on Agentic Robot Reinforcement Learning, Robotic Man
 
 # 📝 Selected Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='https://horizonrobotics.github.io/CogWAM/assets/figures/fig1.png'
-         alt="CogWAM: event-driven semantic state and world-action modeling overview"
-         width="100%" loading="lazy">
-  </div>
-  <div class='paper-box-text'>
-    <h3>CogWAM: Aligning Semantic Cognition with World Action Modeling via Event-Driven Interfaces</h3>
-    <div class="authors">
-      <strong>Sen Wang</strong>, Liu Liu, Xinjiang Wang, Zequn Chen, Haoyi Jiang, Taojun Ding, Tingyang Xiao, Zhizhong Su, Jie Wang, Sanping Zhou
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="CogWAM: Aligning Semantic Cognition with World Action Modeling via Event-Driven Interfaces">CogWAM: Aligning Semantic Cognition with World Action Modeling via Event-Driven Interfaces</h3>
+      <span class="venue">arXiv 2026</span>
     </div>
-    <div class="venue">arXiv preprint, 2026</div>
-    <div class="links">
-      <a href="https://horizonrobotics.github.io/CogWAM/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
-      <a href="https://arxiv.org/abs/2609.37721" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/HorizonRobotics/CogWAM" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-      <a href="#work-demos" class="btn-accent"><i class="fas fa-play-circle"></i> Video</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Sen Wang , Liu Liu, Xinjiang Wang, Zequn Chen, Haoyi Jiang, Taojun Ding, Tingyang Xiao, Zhizhong Su, Jie Wang, Sanping Zhou"><strong>Sen Wang</strong>, Liu Liu, Xinjiang Wang, Zequn Chen, Haoyi Jiang, Taojun Ding, Tingyang Xiao, Zhizhong Su, Jie Wang, Sanping Zhou</div>
+      <div class="links">
+        <a href="https://horizonrobotics.github.io/CogWAM/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+        <a href="https://arxiv.org/abs/2609.37721" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/HorizonRobotics/CogWAM" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+        <a href="#work-demos" class="btn-accent"><i class="fas fa-play-circle"></i> Video</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="https://horizonrobotics.github.io/CogWAM/assets/figures/fig2.png" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="https://horizonrobotics.github.io/CogWAM/assets/figures/fig2.png" alt="CogWAM figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig2.webp' alt="Action-Controlled Scale-Wise Flow Matching model overview" width="100%" loading="lazy">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Action-Controlled Scale-Wise Flow Matching for Embodied World Models</h3>
-    <div class="authors">
-      <strong>Sen Wang*</strong>, Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="Action-Controlled Scale-Wise Flow Matching for Embodied World Models">Action-Controlled Scale-Wise Flow Matching for Embodied World Models</h3>
+      <span class="venue">TPAMI 2026</span>
     </div>
-    <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
-    <div class="links">
-      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
-      <a href="https://sanmumumu.github.io/SAMPO_plus_plus/assets/docs/SAMPO++_preview.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/SanMumumu/SAMPO_plus_plus" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Sen Wang* , Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang"><strong>Sen Wang*</strong>, Sanping Zhou, Huaiyi Dong, Kun Xia, Gang Hua, Le Wang</div>
+      <div class="links">
+        <a href="https://sanmumumu.github.io/SAMPO_plus_plus/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+        <a href="https://sanmumumu.github.io/SAMPO_plus_plus/assets/docs/SAMPO++_preview.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/SanMumumu/SAMPO_plus_plus" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig2.webp" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="https://sanmumumu.github.io/SAMPO_plus_plus/assets/figures/fig2.webp" alt="Action-Controlled Scale-Wise Flow Matching for Embodied World Models figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/2026Flow2Act.jpg' alt="Flow2Act" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Integrating Agglomerative Perception with One-step Action Generation for Robotic Manipulation</h3>
-    <div class="authors">
-      <strong>Sen Wang*</strong>, Le Wang, Hongcheng Huo, Sanping Zhou, Kun Xia, Gang Hua
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="Integrating Agglomerative Perception with One-step Action Generation for Robotic Manipulation">Integrating Agglomerative Perception with One-step Action Generation for Robotic Manipulation</h3>
+      <span class="venue">TPAMI 2026</span>
     </div>
-    <div class="venue">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</div>
-    <div class="links">
-      <a href="https://sanmumumu.github.io/Flow2Act/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
-      <a href="https://sanmumumu.github.io/Flow2Act/static/pdfs/paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Sen Wang* , Le Wang, Hongcheng Huo, Sanping Zhou, Kun Xia, Gang Hua"><strong>Sen Wang*</strong>, Le Wang, Hongcheng Huo, Sanping Zhou, Kun Xia, Gang Hua</div>
+      <div class="links">
+        <a href="https://sanmumumu.github.io/Flow2Act/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+        <a href="https://sanmumumu.github.io/Flow2Act/static/pdfs/paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2026Flow2Act.jpg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2026Flow2Act.jpg' | relative_url }}" alt="Integrating Agglomerative Perception with One-step Action Generation for Robotic Manipulat figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/2026GenSplat.png' alt="GenSplat" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning</h3>
-    <div class="authors">
-      <strong>Sen Wang*</strong>, Huaiyi Dong, Jingyi Tian, Jiayi Li, Zhuo Yang, Tongtong Cao, Anlin Chen, Shuang Wu, Le Wang, Sanping Zhou
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning">Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning</h3>
+      <span class="venue">ECCV 2026</span>
     </div>
-    <div class="venue">The 19th European Conference on Computer Vision</div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2603.29192" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/SanMumumu/GenSplat" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Sen Wang* , Huaiyi Dong, Jingyi Tian, Jiayi Li, Zhuo Yang, Tongtong Cao, Anlin Chen, Shuang Wu, Le Wang, Sanping Zhou"><strong>Sen Wang*</strong>, Huaiyi Dong, Jingyi Tian, Jiayi Li, Zhuo Yang, Tongtong Cao, Anlin Chen, Shuang Wu, Le Wang, Sanping Zhou</div>
+      <div class="links">
+        <a href="https://arxiv.org/abs/2603.29192" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/SanMumumu/GenSplat" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2026GenSplat.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2026GenSplat.png' | relative_url }}" alt="Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/2025SAMPO.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>SAMPO: Scale-wise Autoregression with Motion Prompt for Generative World Models</h3>
-    <div class="authors">
-      <strong>Sen Wang*</strong>, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="SAMPO: Scale-wise Autoregression with Motion Prompt for Generative World Models">SAMPO: Scale-wise Autoregression with Motion Prompt for Generative World Models</h3>
+      <span class="venue">NeurIPS 2025</span>
     </div>
-    <div class="venue">The 39th Annual Conference on Neural Information Processing Systems</div>
-    <div class="links">
-      <a href="https://sanmumumu.github.io/SAMPO/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
-      <a href="https://arxiv.org/abs/2509.15536" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/SanMumumu/SAMPO" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Sen Wang* , Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua"><strong>Sen Wang*</strong>, Jingyi Tian, Le Wang†, Zhimin Liao, Jiayi Li, Huaiyi Dong, Kun Xia, Sanping Zhou, Wei Tang, Gang Hua</div>
+      <div class="links">
+        <a href="https://sanmumumu.github.io/SAMPO/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+        <a href="https://arxiv.org/abs/2509.15536" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/SanMumumu/SAMPO" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2025SAMPO.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2025SAMPO.png' | relative_url }}" alt="SAMPO figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/2025FlowRAM.png' alt="FlowRAM" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation</h3>
-    <div class="authors">
-      <strong>Sen Wang*</strong>, Le Wang†, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation">FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation</h3>
+      <span class="venue">CVPR 2025</span>
     </div>
-    <div class="venue">The 42nd IEEE/CVF Conference on Computer Vision and Pattern Recognition</div>
-    <div class="links">
-      <a href="https://sanmumumu.github.io/FlowRAM/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/SanMumumu/FlowRAM" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Sen Wang* , Le Wang†, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang"><strong>Sen Wang*</strong>, Le Wang†, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang</div>
+      <div class="links">
+        <a href="https://sanmumumu.github.io/FlowRAM/" class="btn-accent"><i class="fas fa-project-diagram"></i> Project</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/SanMumumu/FlowRAM" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2025FlowRAM.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2025FlowRAM.png' | relative_url }}" alt="FlowRAM figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
 
 # 📝 Collaboration Papers
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src="{{ '/images/2026ReWAM.png' | relative_url }}" alt="ReWAM: action-grounded representations and benchmark results" width="100%" loading="lazy">
-  </div>
-  <div class='paper-box-text'>
-    <h3>ReWAM: Rethinking Representations for World-Action Modeling</h3>
-    <div class="authors">
-      Haoyi Jiang, Liu Liu, Xinjiang Wang, Zhihao Sun, Zequn Chen, <strong>Sen Wang</strong>, Xinjie Wang, Xia Chen, Jingfeng Yao, Weiheng Zhao, Shanglin Yuan, Zhizhong Su, Wei Sui, Wenyu Liu, Xinggang Wang
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="ReWAM: Rethinking Representations for World-Action Modeling">ReWAM: Rethinking Representations for World-Action Modeling</h3>
+      <span class="venue">arXiv 2026</span>
     </div>
-    <div class="venue">arXiv preprint, 2026</div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2609.38163" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/hustvl/ReWAM" class="btn-accent"><i class="fab fa-github"></i> Repository</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Haoyi Jiang, Liu Liu, Xinjiang Wang, Zhihao Sun, Zequn Chen, Sen Wang , Xinjie Wang, Xia Chen, Jingfeng Yao, Weiheng Zhao, Shanglin Yuan, Zhizhong Su, Wei Sui, Wenyu Liu, Xinggang Wang">Haoyi Jiang, Liu Liu, Xinjiang Wang, Zhihao Sun, Zequn Chen, <strong>Sen Wang</strong>, Xinjie Wang, Xia Chen, Jingfeng Yao, Weiheng Zhao, Shanglin Yuan, Zhizhong Su, Wei Sui, Wenyu Liu, Xinggang Wang</div>
+      <div class="links">
+        <a href="https://arxiv.org/abs/2609.38163" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/hustvl/ReWAM" class="btn-accent"><i class="fab fa-github"></i> Repository</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2026ReWAM.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2026ReWAM.png' | relative_url }}" alt="ReWAM figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/2026RAGrasp.png' alt="RAGrasp" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>RAGrasp: A Retrieval-Augmented Framework with Diversity-Aware Modeling for Dexterous Grasp Generation</h3>
-    <div class="authors">
-      Zhuo Yang, Sanping Zhou†, <strong>Sen Wang*</strong>, Jingyi Tian, Jiayi Li, Gang Hua, Le Wang
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="RAGrasp: A Retrieval-Augmented Framework with Diversity-Aware Modeling for Dexterous Grasp Generation">RAGrasp: A Retrieval-Augmented Framework with Diversity-Aware Modeling for Dexterous Grasp Generation</h3>
+      <span class="venue">ECCV 2026</span>
     </div>
-    <div class="venue">The 19th European Conference on Computer Vision</div>
-    <div class="links">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-032-37356-4_3" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1642.pdf" class="btn-accent"><i class="fas fa-file-pdf"></i> PDF</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Zhuo Yang, Sanping Zhou†, Sen Wang* , Jingyi Tian, Jiayi Li, Gang Hua, Le Wang">Zhuo Yang, Sanping Zhou†, <strong>Sen Wang*</strong>, Jingyi Tian, Jiayi Li, Gang Hua, Le Wang</div>
+      <div class="links">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-032-37356-4_3" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1642.pdf" class="btn-accent"><i class="fas fa-file-pdf"></i> PDF</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2026RAGrasp.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2026RAGrasp.png' | relative_url }}" alt="RAGrasp figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/2025DynaRend.png' alt="DynaRend" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation</h3>
-    <div class="authors">
-      Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Hua Gang
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation">DynaRend: Learning 3D Dynamics via Masked Future Rendering for Robotic Manipulation</h3>
+      <span class="venue">NeurIPS 2025</span>
     </div>
-    <div class="venue">The 39th Annual Conference on Neural Information Processing Systems</div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2510.24261" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Jingyi Tian, Le Wang†, Sanping Zhou, Sen Wang* , Jiayi Li, Hua Gang">Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Hua Gang</div>
+      <div class="links">
+        <a href="https://arxiv.org/pdf/2510.24261" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2025DynaRend.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2025DynaRend.png' | relative_url }}" alt="DynaRend figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/2025PDFactor.png' alt="PDFactor" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation</h3>
-    <div class="authors">
-      Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Haowen Sun, Wei Tang
+<div class="paper-box paper-compact">
+  <div class="paper-box-text">
+    <div class="paper-title-line">
+      <h3 title="PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation">PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation</h3>
+      <span class="venue">CVPR 2025</span>
     </div>
-    <div class="venue">The 42nd IEEE/CVF Conference on Computer Vision and Pattern Recognition</div>
-    <div class="links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    <div class="paper-meta-line">
+      <div class="authors" title="Jingyi Tian, Le Wang†, Sanping Zhou, Sen Wang* , Jiayi Li, Haowen Sun, Wei Tang">Jingyi Tian, Le Wang†, Sanping Zhou, <strong>Sen Wang*</strong>, Jiayi Li, Haowen Sun, Wei Tang</div>
+      <div class="links">
+        <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      </div>
     </div>
   </div>
+  <div class="paper-preview" aria-hidden="true">
+    <img src="{{ '/images/2025PDFactor.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  </div>
+  <details class="paper-mobile-preview">
+    <summary>Preview figure</summary>
+    <img src="{{ '/images/2025PDFactor.png' | relative_url }}" alt="PDFactor figure preview" loading="lazy" decoding="async">
+  </details>
 </div>
 
 

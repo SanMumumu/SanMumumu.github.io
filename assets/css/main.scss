@@ -338,3 +338,159 @@ $card-border-color: rgba(70, 53, 39, 0.08);
     height: 92px;
   }
 }
+
+
+/* V1: compact, text-first publication list with hover/focus figure previews.
+   Each preview is outside document flow so the publication list never jumps. */
+.paper-box.paper-compact {
+  display: block !important;
+  flex-direction: initial;
+  align-items: initial;
+  padding: 0 !important;
+  margin: 0 0 0.6rem;
+  overflow: visible;
+  border-radius: 11px;
+  box-shadow: none;
+  transform: none;
+  transition: background-color 0.18s ease, border-color 0.18s ease;
+}
+.paper-box.paper-compact:hover,
+.paper-box.paper-compact:focus-within {
+  z-index: 30;
+  transform: none;
+  box-shadow: 0 3px 14px rgba(70, 53, 39, 0.07);
+  border-color: rgba($accent-color, 0.23);
+}
+.paper-box.paper-compact .paper-box-text {
+  display: block;
+  order: initial;
+  padding: 0.78rem 0.95rem;
+  margin: 0;
+  max-width: 100%;
+  min-width: 0;
+}
+.paper-box.paper-compact .paper-title-line {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.3rem 1rem;
+}
+.paper-box.paper-compact .paper-title-line h3 {
+  min-width: 0;
+  flex: 1 1 auto;
+  margin: 0 0 0.38rem;
+  font-size: 1rem;
+  line-height: 1.3;
+  font-weight: 650;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.paper-box.paper-compact .venue {
+  order: initial;
+  flex: 0 0 auto;
+  margin: 0;
+  white-space: nowrap;
+  font-weight: 650;
+  font-size: 0.75rem;
+  color: mix(#000, $accent-color, 40%);
+}
+.paper-box.paper-compact .paper-meta-line {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem 1rem;
+}
+.paper-box.paper-compact .authors {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: rgba($main-color, 0.76);
+}
+.paper-box.paper-compact .links {
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.28rem;
+  margin: 0;
+}
+.paper-box.paper-compact .btn-accent {
+  padding: 0.17rem 0.42rem;
+  font-size: 0.72rem;
+  line-height: 1.35;
+  gap: 0.22rem;
+  border-radius: 5px;
+}
+.paper-box.paper-compact .paper-preview,
+.paper-box.paper-compact .paper-mobile-preview {
+  display: none;
+}
+@media (hover: hover) {
+  .paper-box.paper-compact .paper-preview {
+    display: block;
+    pointer-events: none;
+    position: fixed;
+    right: 1.2rem;
+    bottom: 1.2rem;
+    width: min(540px, 48vw);
+    max-height: 76vh;
+    padding: 0.6rem;
+    background: $background-color;
+    border: 1px solid $card-border-color;
+    border-radius: 12px;
+    box-shadow: 0 14px 50px rgba(26, 33, 44, 0.2);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(6px);
+    transition: opacity 0.17s ease, transform 0.17s ease, visibility 0.17s ease;
+    z-index: 1000;
+  }
+  .paper-box.paper-compact:hover .paper-preview,
+  .paper-box.paper-compact:focus-within .paper-preview {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  .paper-box.paper-compact .paper-preview img {
+    width: 100%;
+    max-height: calc(76vh - 1.2rem);
+    height: auto;
+    object-fit: contain;
+    display: block;
+    border-radius: 6px;
+  }
+}
+@media (hover: none) {
+  .paper-box.paper-compact .paper-mobile-preview {
+    display: block;
+    padding: 0 0.95rem 0.65rem;
+    font-size: 0.78rem;
+  }
+  .paper-box.paper-compact .paper-mobile-preview summary {
+    width: max-content;
+    cursor: pointer;
+    color: mix(#000, $accent-color, 36%);
+  }
+  .paper-box.paper-compact .paper-mobile-preview img {
+    display: block;
+    width: 100%;
+    max-height: 360px;
+    object-fit: contain;
+    margin: 0.6rem 0 0;
+    border-radius: 6px;
+  }
+}
+@media (max-width: 768px) {
+  .paper-box.paper-compact .paper-title-line { align-items: start; }
+  .paper-box.paper-compact .paper-title-line h3 { font-size: 0.96rem; }
+  .paper-box.paper-compact .paper-meta-line { display: block; }
+  .paper-box.paper-compact .authors { margin: 0 0 0.35rem; }
+  .paper-box.paper-compact .links { gap: 0.3rem; }
+}
+

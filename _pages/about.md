@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year Ph.D. candidate in the Institute of Artificial Intelligence and Robotics at Xi'an Jiaotong University ([IAIR](https://iair.xjtu.edu.cn/index.htm), [XJTU](https://www.xjtu.edu.cn/)), where I am pursuing my doctoral studies under the guidance of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
+I am currently a fourth-year Ph.D. candidate in the Institute of Artificial Intelligence and Robotics at Xi'an Jiaotong University ([IAIR](https://iair.xjtu.edu.cn/index.htm), [XJTU](https://www.xjtu.edu.cn/)). From September 2023 to September 2026, my doctoral advisor was Prof. [Le Wang](https://gr.xjtu.edu.cn/web/lewang). Since October 2026, my doctoral advisor has been Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou). I also collaborate closely with Prof. [Gang Hua](https://www.ganghua.org/) and Prof. [Wei Tang](https://www.cs.uic.edu/~tangw/).
 Previously, I earned my B.Eng. in Control Science and Engineering from Jilin University.
 
 My research interest focus on Robotic Manipulation, with particular emphasis on vision language action model and world model. I welcome any inquiries regarding potential collaboration in these areas.

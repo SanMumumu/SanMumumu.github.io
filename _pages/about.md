@@ -27,7 +27,7 @@ My research interests focus on Agentic Robot Reinforcement Learning, Robotic Man
 
 # 🔥 News
 - 2026.09: 📄 Our new preprints [CogWAM](https://arxiv.org/abs/2609.37721) and [ReWAM](https://arxiv.org/abs/2609.38163) are now available on arXiv.
-- 2026.08: 🎉 SAMPO++ (Action-Controlled Scale-Wise Flow Matching) was accepted by TPAMI.
+- 2026.08: 🎉 SAMPO++ was accepted by TPAMI.
 - 2026.07: 🎉 Flow2Act was accepted by TPAMI.
 - 2026.06: 🎉 Two papers were accepted to ECCV 2026.
 - 2025.09: 🎉 Two papers were accepted to NeurIPS 2025.

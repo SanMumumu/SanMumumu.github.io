@@ -228,7 +228,7 @@ My research interests focus on Agentic Robot Reinforcement Learning, Robotic Man
 <span class='anchor' id='invited-talks'></span>
 
 # 💬 Invited Talks & Community Services
-- **Reviewer:** CVPR 2026, ECCV 2026
+- **Reviewer:** ICLR 2027, CVPR 2026, ECCV 2026
 - *2025.06.15*, Give an oral presentation on *Embodied Computer Vision* in Nashville at CVPR 25 conference. \|[**(Slide)**](https://cvpr.thecvf.com/media/cvpr-2025/Slides/35335.pdf) \| [**(Video)**](https://youtu.be/Y3P9wKyzLcM)
 
 
@@ -241,7 +241,7 @@ My research interests focus on Agentic Robot Reinforcement Learning, Robotic Man
       <img src="{{ '/files/Horizon.png' | relative_url }}" alt="Horizon Robotics logo">
     </div>
     <div class="internship-card__content">
-      <div class="internship-card__meta">2026.04 - present</div>
+      <div class="internship-card__meta">2026.04 - 2026.10</div>
       <h3>Horizon Robotics Lab</h3>
       <p>China</p>
     </div>

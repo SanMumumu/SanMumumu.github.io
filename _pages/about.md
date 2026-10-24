@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year Ph.D. candidate in the Institute of Artificial Intelligence and Robotics at Xi'an Jiaotong University ([IAIR](https://iair.xjtu.edu.cn/index.htm), [XJTU](https://www.xjtu.edu.cn/)). From September 2023 to September 2026, my doctoral advisor was Prof. [Le Wang](https://gr.xjtu.edu.cn/web/lewang). Since October 2026, my doctoral advisor has been Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou). I also collaborate closely with Prof. [Gang Hua](https://www.ganghua.org/) and Prof. [Wei Tang](https://www.cs.uic.edu/~tangw/).
+I am currently a fourth-year Ph.D. candidate in the Institute of Artificial Intelligence and Robotics at Xi'an Jiaotong University ([IAIR](https://iair.xjtu.edu.cn/index.htm), [XJTU](https://www.xjtu.edu.cn/)). From September 2023 to September 2026, my doctoral advisor was Prof. [Le Wang](https://gr.xjtu.edu.cn/web/lewang). Since October 2026, my doctoral advisor has been Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou). I also collaborate closely with Prof. [Jie Wang](https://miralab.ai/people/jie-wang/), Prof. [Gang Hua](https://www.ganghua.org/), and Prof. [Wei Tang](https://www.cs.uic.edu/~tangw/).
 Previously, I earned my B.Eng. in Control Science and Engineering from Jilin University.
 
 My research interests focus on Agentic Robot Reinforcement Learning, Robotic Manipulation, Vision-Language-Action (VLA) Models, and World Models. I welcome inquiries about potential collaboration in these areas.
@@ -42,8 +42,8 @@ My research interests focus on Agentic Robot Reinforcement Learning, Robotic Man
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='https://horizonrobotics.github.io/CogWAM/assets/figures/fig1.png'
-         alt="CogWAM: event-driven semantic state and world-action modeling overview"
+    <img src='https://horizonrobotics.github.io/CogWAM/assets/figures/fig2.png'
+         alt="CogWAM architecture: event-driven Semantic State and World/Action queries"
          width="100%" loading="lazy">
   </div>
   <div class='paper-box-text'>
@@ -215,6 +215,7 @@ My research interests focus on Agentic Robot Reinforcement Learning, Robotic Man
 <span class='anchor' id='honors-awards'></span>
 
 # 🏅 Honors & Awards
+- *2026.10*, National Scholarship, MOE of PRC
 - *2025.11*, Second Prize in the Artificial Intelligence+ Special Competition, 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Works Competition [**(Cert.)**](../images/挑战杯国赛二等奖.pdf)
 - *2025.10*, *2024.10*, Academic Scholarship, XJTU
 - *2025.06*, First Prize in the 15th Challenge Cup Shaanxi Province College Students' Extracurricular Academic Science and Technology Works Competition [**(Cert.)**](../images/挑战杯省赛一等奖.jpg)
